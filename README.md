@@ -40,8 +40,8 @@ server root. This repo is where the website points.
 
 ## Installing
 
-In the Modrinth app: **Add instance → From file**, and pick the
-`.mrpack`. The [season page](https://www.joindome.be/seasons/s2/) has
+In the Modrinth app: **Create new instance** → **Upload modpack**, and
+pick the `.mrpack`. The [season page](https://www.joindome.be/seasons/s2/) has
 the full mod list, the server address and the setup guide.
 
-Servers are whitelist only — ask Jonas in the Discord to be added.
+Servers are whitelist only — ask in the Discord to be added.
